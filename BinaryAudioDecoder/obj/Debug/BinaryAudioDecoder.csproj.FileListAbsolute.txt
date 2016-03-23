@@ -1,0 +1,6 @@
+c:\users\mark\documents\visual studio 2015\Projects\BinaryAudioDecoder\BinaryAudioDecoder\bin\Debug\BinaryAudioDecoder.exe.config
+c:\users\mark\documents\visual studio 2015\Projects\BinaryAudioDecoder\BinaryAudioDecoder\obj\Debug\BinaryAudioDecoder.csprojResolveAssemblyReference.cache
+c:\users\mark\documents\visual studio 2015\Projects\BinaryAudioDecoder\BinaryAudioDecoder\bin\Debug\BinaryAudioDecoder.exe
+c:\users\mark\documents\visual studio 2015\Projects\BinaryAudioDecoder\BinaryAudioDecoder\bin\Debug\BinaryAudioDecoder.pdb
+c:\users\mark\documents\visual studio 2015\Projects\BinaryAudioDecoder\BinaryAudioDecoder\obj\Debug\BinaryAudioDecoder.exe
+c:\users\mark\documents\visual studio 2015\Projects\BinaryAudioDecoder\BinaryAudioDecoder\obj\Debug\BinaryAudioDecoder.pdb
